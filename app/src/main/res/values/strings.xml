@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidERestaurant</string>
+    <string name="welcome">Bienvenue à l\'Odyssée</string>
+    <string name="entree">Entrées</string>
+    <string name="plat">Plats</string>
+    <string name="dessert">Desserts</string>
+</resources>
